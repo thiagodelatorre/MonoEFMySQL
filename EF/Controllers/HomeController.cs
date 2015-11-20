@@ -18,7 +18,7 @@ namespace EF.Controllers
 			ViewData ["Runtime"] = isMono ? "Mono" : ".NET";
 
 			using (var context = new MyContext ()) {
-				Person p = new Person { FirstName = "Thiago" };
+				Person p = new Person { FirstName = "Thiago", LastName = "Delatorre" };
 
 				context.Persons.Add (p);
 				context.SaveChanges ();

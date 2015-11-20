@@ -88,7 +88,6 @@
     </Compile>
     <Compile Include="Models\Person.cs" />
     <Compile Include="Models\MyContext.cs" />
-    <Compile Include="MigrationManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />

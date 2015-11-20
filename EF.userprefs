@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="EF/EF.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="webbrowser-app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EF/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migration/Program.cs">
     <Files>
-      <File FileName="EF/Controllers/HomeController.cs" Line="14" Column="57" />
+      <File FileName="Migration/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
