@@ -5,12 +5,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{DC59
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migration", "Migration\Migration.csproj", "{A689BFB8-563F-4066-8CF1-8C4655643F59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projects", "Projects\Projects.csproj", "{4DF74DDB-A58A-4672-903A-A6B62637C76A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF74DDB-A58A-4672-903A-A6B62637C76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF74DDB-A58A-4672-903A-A6B62637C76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF74DDB-A58A-4672-903A-A6B62637C76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF74DDB-A58A-4672-903A-A6B62637C76A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A689BFB8-563F-4066-8CF1-8C4655643F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A689BFB8-563F-4066-8CF1-8C4655643F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A689BFB8-563F-4066-8CF1-8C4655643F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
