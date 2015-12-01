@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Models.Project>
+
+@{
+    Layout = null;
+    int Count = Model.Count();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Projects (@Count available)</title>
+</head>
+<body>
+<ul>
+@foreach(var project in Model)
+{
+	<li>
+	@Html.DisplayFor(m => project.Id)
+	@Html.DisplayFor(m => project.Name)
+	@Html.DisplayFor(m => project.EstimationHours)
+	@Html.DisplayFor(m => project.Usage) 
+	@Html.DisplayFor(m => project.UsedHours) 
+	</li>
+}
+</ul>
+</body>
+</html>
+

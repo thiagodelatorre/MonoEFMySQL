@@ -1,0 +1,31 @@
+﻿@model Models.WorkLog
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WorkLog</title>
+</head>
+<body>
+@using(Html.BeginForm("WorkLog"))
+{
+	@Html.AntiForgeryToken()
+
+	@Html.LabelFor(model => model.Project.Id)
+	@Html.EditorFor(model => model.Project.Id)
+
+	@Html.LabelFor(model => model.Usage)
+	@Html.EditorFor(model => model.Usage)
+
+	@Html.LabelFor(model => model.Description)
+	@Html.EditorFor(model => model.Description)
+
+	<input type="submit" value="Save Work Log"/>
+	
+}
+</body>
+</html>
+

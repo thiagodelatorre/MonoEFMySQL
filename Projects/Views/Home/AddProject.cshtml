@@ -1,0 +1,30 @@
+﻿@model Models.Project
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AddProject</title>
+</head>
+<body>
+@using(Html.BeginForm("AddProject", "Home", FormMethod.Post))
+{
+	@Html.AntiForgeryToken()
+
+	@Html.LabelFor(model => model.Name)
+	@Html.EditorFor(model=>model.Name)
+
+	@Html.LabelFor(model => model.Usage)
+	@Html.EditorFor(model=>model.Usage)
+
+	@Html.LabelFor(model => model.EstimationHours)
+	@Html.EditorFor(model=>model.EstimationHours)
+
+	<input type="submit" value="Save Project" />
+}
+</body>
+</html>
+

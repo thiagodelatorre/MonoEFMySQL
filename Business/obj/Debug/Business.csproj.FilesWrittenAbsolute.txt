@@ -1,0 +1,10 @@
+/home/thiago/EF/Business/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/thiago/EF/Business/bin/Debug/Business.dll.mdb
+/home/thiago/EF/Business/bin/Debug/Business.dll
+/home/thiago/EF/Business/obj/Debug/Business.dll
+/home/thiago/EF/Business/obj/Debug/Business.dll.mdb
+/home/thiago/EF/Business/bin/Debug/DAL.dll
+/home/thiago/EF/Business/bin/Debug/DAL.dll.mdb
+/home/thiago/EF/Business/bin/Debug/Models.dll
+/home/thiago/EF/Business/bin/Debug/Models.dll.mdb
+/home/thiago/EF/Business/bin/Debug/EntityFramework.dll

@@ -1,0 +1,5 @@
+/home/thiago/EF/Models/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/thiago/EF/Models/bin/Debug/Models.dll.mdb
+/home/thiago/EF/Models/bin/Debug/Models.dll
+/home/thiago/EF/Models/obj/Debug/Models.dll
+/home/thiago/EF/Models/obj/Debug/Models.dll.mdb

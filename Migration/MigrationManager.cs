@@ -5,6 +5,7 @@ using System.Resources;
 using System.Configuration;
 using System.Data.Entity.Migrations;
 using MySql.Data.Entity;
+using DAL;
 
 namespace EF
 {
@@ -105,7 +106,7 @@ namespace EF
 		}
 	}
 
-	public class MySqlMigrationsConfiguration : DbMigrationsConfiguration<MyContext>
+	public class MySqlMigrationsConfiguration : DbMigrationsConfiguration<ProjectsContext>
 	{
 		public MySqlMigrationsConfiguration ()
 		{

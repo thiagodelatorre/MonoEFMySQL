@@ -1,0 +1,12 @@
+/home/thiago/EF/DAL/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/thiago/EF/DAL/bin/Debug/DAL.dll.config
+/home/thiago/EF/DAL/bin/Debug/DAL.dll.mdb
+/home/thiago/EF/DAL/bin/Debug/DAL.dll
+/home/thiago/EF/DAL/obj/Debug/DAL.dll
+/home/thiago/EF/DAL/obj/Debug/DAL.dll.mdb
+/home/thiago/EF/DAL/bin/Debug/MySql.Data.dll
+/home/thiago/EF/DAL/bin/Debug/EntityFramework.dll
+/home/thiago/EF/DAL/bin/Debug/EntityFramework.SqlServer.dll
+/home/thiago/EF/DAL/bin/Debug/MySql.Data.Entity.EF6.dll
+/home/thiago/EF/DAL/bin/Debug/Models.dll
+/home/thiago/EF/DAL/bin/Debug/Models.dll.mdb
